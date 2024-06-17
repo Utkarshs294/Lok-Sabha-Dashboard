@@ -1,6 +1,6 @@
 # Lok-Sabha-Dashboard
 
-I'm Pleased to announce that i have developed a comprehensive dashboard for the recently lok Sabha election.
+I'm pleased to announce that i have developed a comprehensive dashboard for the recently lok Sabha election.
 
 Dashboard contain :-
 
