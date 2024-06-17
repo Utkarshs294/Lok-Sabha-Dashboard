@@ -15,3 +15,7 @@ Dashboard contain :-
 
 Insights :-
 
+- BJP has won maximum number of seats in lok sabha election.
+- Leading Candidate in lok sabha election with highest margin is Yogendra Chandoliya.
+- As a Party, BJP wins with the maximum margin of 68.62 %.
+- Vishakhapatnam is highest margin by constituency.
